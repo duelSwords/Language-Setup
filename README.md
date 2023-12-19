@@ -1,1 +1,2 @@
-# Read Wiki Pages
+# [Read Wiki Pages](https://github.com/duelSwords/Local-Machine-Setup/wiki)
+
